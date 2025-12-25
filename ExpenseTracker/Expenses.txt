@@ -1,0 +1,30 @@
+-----Expenses List-----
+  Category:food  Description:Lunch  Amount:230.0
+  Category:Travel  Description:from Bus  Amount:60.0
+  Category:Shopping  Description:Clothes  Amount:800.0
+----------------------Total Expense:1090.0 Rs
+
+-----Expenses List-----
+  Category:food  Description:Lunch  Amount:230.0
+  Category:Travel  Description:from Bus  Amount:60.0
+  Category:Shopping  Description:Clothes  Amount:800.0
+----------------------Total Expense:1090.0 Rs
+
+-----Expenses List-----
+  Category:food  Description:Lunch  Amount:240.0
+  Category:Travel  Description:from Bus  Amount:123.0
+  Category:Shopping  Description:Clothes  Amount:830.0
+----------------------Total Expense:1193.0 Rs
+
+-----Expenses List-----
+  Category:food  Description:Lunch  Amount:240.0
+  Category:Travel  Description:from Bus  Amount:123.0
+  Category:Shopping  Description:Clothes  Amount:830.0
+----------------------Total Expense:1193.0 Rs
+
+-----Expenses List-----
+  Category:food  Description:Lunch  Amount:223240.0
+  Category:Travel  Description:from Bus  Amount:12233.0
+  Category:Shopping  Description:Clothes  Amount:83230.0
+----------------------Total Expense:318703.0 Rs
+
