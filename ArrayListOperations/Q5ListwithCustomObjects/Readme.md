@@ -558,7 +558,7 @@ int getTotalBooks() {
 
 ---
 
-**Author:** [Your Name]  
+**Author:** Priyanshu Vishwakarma 
 **Date:** January 2026  
 **Part of:** Hospital ER Assignment Practice Series (Q1-Q10)  
 **Milestone:** 50% Complete! 🎉
